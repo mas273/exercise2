@@ -22,5 +22,6 @@ public class sams {
     public void testscan(){
         //输出hellow world
         System.out.println("hellow world");
+        System.out.println("hellow git");
     }
 }
